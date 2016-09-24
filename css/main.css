@@ -1,0 +1,11 @@
+/* Propiedades del encabezado */
+.encabezado{
+  background-color:black;
+}
+.encabezado h1{
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-align:center;
+}
+.encabezado h2{
+
+}
